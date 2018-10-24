@@ -1,0 +1,3 @@
+# Vanilla JavaScript
+
+[*] Promises
